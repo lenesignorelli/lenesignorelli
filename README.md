@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Rosilene Ap. Signorelli, estudante de Tecnologia! 👋
 
 - 🔭 Atualmente estou cursando o FuturoDev - Web FullStack - Senai/Florianópolis.
-- 🌱 Estou me aperfeiçoando em HTML, CSS, JavaScript, React.
+- 🌱 Estou me aperfeiçoando em HTML, CSS, JavaScript, React, Java, PostgreSQL, SpringBoot.
 ##
 ![Lene's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenesignorelli&show_icons=true&theme=radical)
 ##
