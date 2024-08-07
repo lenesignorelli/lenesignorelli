@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Rosilene Signorelli, estudante de Tecnologia! 👋
 
-- 🌱 Estou me aperfeiçoando em HTML, CSS, JavaScript.
+- 🌱 Estou cursando graduação em Análise e Desenvolvimento de Sistemas.
 ##
 ![Lene's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenesignorelli&show_icons=true&theme=radical)
 ##
